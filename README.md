@@ -1,4 +1,7 @@
-### Hi there 👋
+[![MasterHead](img/banner.png)](https://github.com/FaruuZa)
+
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=FaruuZa&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
 <!--
 **FaruuZa/FaruuZa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
